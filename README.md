@@ -1,3 +1,3 @@
 # LINDDUN-threats-validation
 
-This repository contains the outcomes for the paper "A Systematic Approach to Completeness in Threat Modelling".
+This repository contains the outcomes for the paper "How to model privacy threats in the automotive domain".
