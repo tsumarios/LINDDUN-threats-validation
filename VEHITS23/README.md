@@ -1,9 +1,9 @@
-# LINDDUN-threats-validation
+# How to Model Privacy Threats in the Automotive Domain
 
-This repository contains the outcomes for the paper "How to Model Privacy Threats in the Automotive Domain", accepted in 9th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2023).
+This folder contains the outcomes for the paper "How to Model Privacy Threats in the Automotive Domain", accepted in 9th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2023).
 
-DOI: https://doi.org/10.5220/0011998800003479
-Preprint ArXiv DOI: https://doi.org/10.48550/arXiv.2303.10370
+DOI: <https://doi.org/10.5220/0011998800003479>
+Preprint ArXiv DOI: <https://doi.org/10.48550/arXiv.2303.10370>
 
 ## Abstract
 
