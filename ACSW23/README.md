@@ -1,8 +1,8 @@
 # A Threat Model for Soft Privacy on Smart Cars
 
-This folder contains the outcomes for the paper "A Threat Model for Soft Privacy on Smart Cars", in 2nd Workshop on Automotive Cybersecurity (ACSW 2023).
+This folder contains the outcomes for the paper "A Threat Model for Soft Privacy on Smart Cars", in 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW).
 
-DOI: <>
+DOI: <https://doi.org/10.1109/EuroSPW59978.2023.00005>
 Preprint ArXiv DOI: <https://doi.org/10.48550/arXiv.2306.04222>
 
 ## Abstract
