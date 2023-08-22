@@ -6,8 +6,8 @@ The structure is quite straightforward, as each folder reflects a single paper a
 
 ## Quick Access
 
-- [Up-to-date Threat Modelling for Soft Privacy on Smart Cars](/Up-to-date%20Threat%20Modelling%20for%20Soft%20Privacy%20on%20Smart%20Cars/).
-- [A Threat Model for Soft Privacy on Smart Cars](/ACSW23) In 2nd Workshop on Automotive Cybersecurity (ACSW 2023).
+- [Up-to-date Threat Modelling for Soft Privacy on Smart Cars](/SECPRE23) - In 7th International Workshop on SECurity and Privacy Requirements Engineering (SECPRE 2023).
+- [A Threat Model for Soft Privacy on Smart Cars](/ACSW23) - In 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW).
 - [How to Model Privacy Threat in the Automotive Domain](/VEHITS23) - In 9th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2023).
 
 #### Contacts

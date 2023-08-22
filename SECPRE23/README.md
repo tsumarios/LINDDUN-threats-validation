@@ -2,6 +2,9 @@
 
 This folder contains the outcomes for the paper "Up-to-date Threat Modelling for Soft Privacy on Smart Cars".
 
+DOI: <>
+Preprint ArXiv DOI: <>
+
 ## Abstract
 
 Physical persons playing the role of car drivers consume data that is sourced from the Internet and, at the same time, themselves act as sources of relevant data. It follows that citizens' privacy is potentially at risk while they drive, hence the need to model privacy threats in this application domain.
