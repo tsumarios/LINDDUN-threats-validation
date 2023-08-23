@@ -3,7 +3,7 @@
 This folder contains the outcomes for the paper "Up-to-date Threat Modelling for Soft Privacy on Smart Cars".
 
 DOI: <>
-Preprint ArXiv DOI: <>
+Preprint ArXiv DOI: <https://doi.org/10.48550/arXiv.2308.11273>
 
 ## Abstract
 
