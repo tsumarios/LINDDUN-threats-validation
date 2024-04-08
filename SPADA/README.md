@@ -4,8 +4,12 @@ This folder contains the outcomes for the article "The SPADA Methodology for Pri
 
 It contains a comprehensive list of privacy threats organised into domain-independent and domain-dependent categories. The content is designed to facilitate privacy threat modelling and analysis in various domains, including smart cars and smart homes.
 
+Each domain-independent threat is instantiated appropriately, i.e., over each of the assets it affects, not necessarily all assets, ultimately producing a domain-dependent threat.
+
+The following files provide the full results:
+
 - **[privacy_threats.xlsx](./privacy_threats.xlsx)**: This file contains two tabs named "Soft Privacy" and "Hard Privacy". Each tab lists domain-independent privacy threats, along with the document source (S) for each threat.
-- **[privacy_threats_smartcar.xlsx](./privacy_threats_smartcar.xlsx)**: This file contains three tabs named "Smart Car Assets", "Soft Privacy" and "Hard Privacy". The first tab includes the assets collected for the target domain (smart car), along with the document source (S) and category/group for each asset. The second and third tabs feature the domain-dependent threats for, respectively, soft and hard privacy, obtained by appropriate combinations with the target domain assets, , along with the document source (S) for each threat.
+- **[privacy_threats_smartcar.xlsx](./privacy_threats_smartcar.xlsx)**: This file contains three tabs named "Smart Car Assets", "Soft Privacy" and "Hard Privacy". The first tab includes the assets collected for the target domain (smart car), along with the document source (S) and category/group for each asset. The second and third tabs feature the domain-dependent threats for, respectively, soft and hard privacy, obtained by appropriate combinations with the target domain assets, along with the document source (S) for each threat.
 - **[privacy_threats_smarthome.xlsx](./privacy_threats_smarthome.xlsx)**: This file contains three tabs named "Smart Home Assets", "Soft Privacy" and "Hard Privacy". The first tab includes the assets collected for the target domain (smart home), along with the document source (S) and category/group for each asset. The second and third tabs feature the domain-dependent threats for, respectively, soft and hard privacy, obtained by appropriate combinations with the target domain assets, along with the document source (S) for each threat.
 
 ## Abstract
