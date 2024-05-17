@@ -11,6 +11,12 @@ The core contribution is SPADA, a methodology for privacy threat modelling revol
 SPADA requires the analyst to duly instantiate each variable but offers increased structure and automation in return.
 The methodology is applied to the domains of smart cars and smart homes, considering both soft and hard privacy. This yields 23 domain-independent threats for soft privacy, and 29 domain-independent threats for hard privacy. Both these lists of threats are then tailored to the smart car domain by appropriate combination with the 43 identified assets, producing a total of 785 privacy threats for smart cars. Similarly, appropriate combination with the 127 assets identified in the smart home domain produces a total of 1502 privacy threats for smart homes.
 
+## Prior to SPADA
+
+*File: [pre-SPADA.xlsx](./pre-SPADA.xlsx)*
+
+This file contains the list of threats gathered from the following document sources before applying the SPADA methodology: “ENISA TT” stands for the ENISA “Threat Taxonomy v2016” report, “ENISA SC” for the “Good practices for security of smart cars” report, “ENISA SH” for the “Threat Landscape and Good Practice Guide for Smart Home and Converged Media” report, “OWASP” for the “Calculation of the complete Privacy Risks list v2.0” document, with the remaining labels referring to the LINDDUN threat types.
+
 ## Domain-Independent Privacy Threats
 
 *File: [privacy_threats.xlsx](./privacy_threats.xlsx)*
