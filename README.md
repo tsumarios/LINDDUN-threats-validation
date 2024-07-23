@@ -1,6 +1,6 @@
-# Privacy Threat Modelling Research
+# Security and Privacy Threat Modelling Research
 
-This repository contains the outcomes for various papers involving privacy threat modelling research.
+This repository contains the outcomes for various papers involving security and privacy threat modelling research.
 
 The structure is quite straightforward, as each folder reflects a single paper and includes its contributions.
 
